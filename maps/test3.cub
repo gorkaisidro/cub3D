@@ -1,0 +1,10 @@
+NO ./textures/pics/mossy.png
+SO ./textures/pics/redbrick.png
+WE ./textures/pics/greystone.png
+EA ./textures/pics/wood.png
+F 50,100,0
+C 0,200,255
+
+1111111
+10N0S01
+1111111

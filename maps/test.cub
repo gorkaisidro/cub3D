@@ -1,0 +1,14 @@
+NO ./textures/pics/colorstone.png
+SO ./textures/pics/redbrick.png
+WE ./textures/pics/greystone.png
+EA ./textures/pics/wood.png
+F 220,111,119
+C 225,111,0
+
+111111
+10N001
+111011
+111011
+111111
+100001
+111111
